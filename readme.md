@@ -17,8 +17,7 @@
 
 **Python入門2**
 - 1_basis_of_python_2_lecture.ipynb: 講義資料中の例題
-- 1_basis_of_python_2_short_ex.ipynb: 練習問題
-- 1_basis_of_python_2_ex.ipynb: 演習問題  
+- 1_basis_of_python_2_short_ex.ipynb: 練習問題・演習問題
 
 ---
 ## 第2回
